@@ -1,0 +1,2 @@
+# TalayeYektaBot
+ربات تحلیل فارکسXAUUSD
